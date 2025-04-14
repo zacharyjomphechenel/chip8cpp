@@ -1,3 +1,4 @@
+// Zachary Jomphe Chenel
 export module IVideoBuffer;
 
 // 1 bit par pixel video buffer
